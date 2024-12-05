@@ -1,0 +1,19 @@
+How many Incidences are still active?
+
+How many Alerts are still active?
+
+How many Incidences have started yesterday?
+
+How many Alerts have started yesterday?
+
+Show me the details of the Incidence 10005.
+
+How many incidents involving cis BANCO-SRV-03 have occurred this year?
+
+Give me all the information about the incidents involving BANCO-SRV-09.
+
+Can you delete the last Alerts?
+
+How many critical incidents have occurred this month?
+
+How many incidents were there on the server last week?

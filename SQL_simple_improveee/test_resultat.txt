@@ -1,0 +1,68 @@
+0. Pregunta: How many Incidences are still active?
+Resposta: 
+there are 22 incidences that match with your question
+
+
+1. Pregunta: How many Alerts are still active?
+Resposta: 
+there are 15 alerts that match with your question
+
+
+2. Pregunta: How many Incidences have started yesterday?
+Resposta: 
+there are 0 incidences that match with your question
+
+
+3. Pregunta: How many Alerts have started yesterday?
+Resposta: 
+there are 0 alerts that match with your question
+
+
+4. Pregunta: Show me the details of the Incidence 10005.
+Resposta: 
+      ID       start_datetime         end_datetime  ...  CIs_affected                              Description Source
+0  10005  2024-10-18 08:00:00  2024-10-18 09:30:45  ...  BANCO-SRV-04  Disk space issue on transaction server.   None
+
+[1 rows x 8 columns]
+
+
+5. Pregunta: How many incidents involving cis BANCO-SRV-03 have occurred this year?
+Resposta: 
+there are 11 incidences that match with your question
+
+
+6. Pregunta: Give me all the information about the incidents involving BANCO-SRV-09.
+Resposta: 
+       ID       start_datetime  ...                                        Description   Source
+0   10009  2024-10-22 16:40:50  ...           Database access delay during peak hours.      NaN
+1   10010  2024-10-23 07:55:00  ...        Major failure in the authentication system.  20044.0
+2   10015  2024-10-28 12:30:25  ...    Core banking system down due to unknown errors.      NaN
+3   10022  2024-11-04 11:50:10  ...               Delay detected in SMS notifications.      NaN
+4   10032  2024-11-14 13:45:15  ...           Outage in the email notification system.      NaN
+5   10037  2024-11-19 09:10:30  ...    Problems with real-time transaction monitoring.  20087.0
+6   10050  2024-10-15 16:24:39  ...    Connectivity issue with external vendor system.      NaN
+7   10062  2024-10-01 08:04:52  ...         Interruption in automated payment systems.      NaN
+8   10069  2024-09-10 02:37:30  ...          Delayed response in client query service.      NaN
+9   10073  2024-10-02 20:26:10  ...  Email notifications delayed for account activi...      NaN
+10  10082  2024-08-25 16:44:38  ...  System performance degradation during peak pro...      NaN
+11  10093  2024-08-26 16:47:07  ...          Slow data retrieval in reporting systems.      NaN
+12  10096  2024-10-18 14:21:30  ...  API failures causing delays in third-party int...      NaN
+
+[13 rows x 8 columns]
+
+
+7. Pregunta: What criteria do you use to determine if an incident is active or inactive?
+Resposta: 
+I couldn't find information related to that question. Please feel free to ask me another question.
+
+
+8. Pregunta: How many critical incidents have occurred this month?
+Resposta: 
+I couldn't find information related to that question. Please feel free to ask me another question.
+
+
+9. Pregunta: How many incidents were there on the server last week?
+Resposta: 
+there are 0 incidences that match with your question
+
+
