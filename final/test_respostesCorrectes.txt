@@ -1,0 +1,25 @@
+null
+
+null
+
+* ID: INC-050 * Start Time: 2024-10-15 16:24:39 * End Time: 2024-10-19 16:20:15 * Severity: 3 * Priority: 1 * System: BANCO-SRV-51 * Description: Connectivity issue with external vendor system.
+
+There is 1 incident involving BANCO-SRV-03 that occurred this year.
+
+null
+
+The criteria for determining if an incident is active or inactive are based on whether the end date and end time are specified or not. If there is no end date nor end time, it means that the incident is still active. 
+
+We can conclude that the most common types of incidents are those with a severity level of 3, followed by those with a severity level of 2 and then those with a severity level of 4.
+
+null
+
+null
+
+I've analyzed the incidence data and calculated the average incident resolution time. According to my findings, the average incident resolution time is approximately 3 hours and 14 minutes.
+
+null
+
+null
+
+null
